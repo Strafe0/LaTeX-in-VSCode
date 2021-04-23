@@ -1,0 +1,48 @@
+PWD c:\Users\valer\Desktop\LaTeX в VS Code\Тест
+INPUT C:\Users\valer\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.tex
+OUTPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1000.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\pscyr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\pscyr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.aux
+INPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.aux
+OUTPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\t2afaq.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\t2afaq.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\pscyr\faqr6a.tfm
+OUTPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.pdf
+INPUT C:\Users\valer\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT c:\Users\valer\Desktop\LaTeX в VS Code\Тест\test.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\ot1faq.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\pscyr\ot1faq.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\pscyr\faqr7t.tfm
+INPUT C:\Users\valer\AppData\Roaming\MiKTeX\fonts\enc\dvips\t2\t2a.enc
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\pscyr\antiq6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\pscyr\antiq6.pfb
